@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/7rbrKMx/flowers-0008-1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/Jz46r1f/flowers-0007-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/SwJ0Rqn/flowers-0006-3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/TgDFgp1/flowers-0005-4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/0y3VS9R/flowers-0004-5.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/Ct8LX43/flowers-0003-6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/5R30H3K/flowers-0002-7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/LRxJLqB/flowers-0000-9.jpg",
+    "clicked": false
+  }
+]

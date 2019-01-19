@@ -1,0 +1,21 @@
+{
+  "name": "clicky-game",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://wllm-chndlr.github.io/clicky-game",
+  "dependencies": {
+    "ajv": "^6.7.0",
+    "gh-pages": "^1.2.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
