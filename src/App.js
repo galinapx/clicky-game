@@ -69,15 +69,15 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Fabulous Flower Game"
+          title="Galina's Fabulous Flower Game"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
         <Title>
-          Try to click on each flower, but don't hit any duplicates, or some
-          weeds might grow!!!
+          Try to click on each flower, but don't hit any duplicates or some
+          weeds might grow!
         </Title>
 
         <Container>
